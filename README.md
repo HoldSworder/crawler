@@ -5,6 +5,8 @@
  ## 使用方法
  ```js
   //控制台
+  npm i
+
   node index.js
  ```
 

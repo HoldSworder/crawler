@@ -1,0 +1,17 @@
+{
+  "name": "crawler-hupu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qzr",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "request": "^2.88.0",
+    "superagent": "^4.0.0",
+    "superagent-proxy": "^2.0.0"
+  }
+}
